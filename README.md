@@ -1,6 +1,7 @@
-# AngularExample
+# Angular Assignment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+To render a list of items on screen
 
 ## Development server
 
